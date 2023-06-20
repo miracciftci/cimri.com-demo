@@ -7,6 +7,6 @@ verileri alınıp karşılaştırılıp aynı bilgisayarlar bulunmuştur.
 Bulunan bilgisayarlar database’e kaydedilip frontend kısmına
 gonderilip yayınlanmıştır
 
-<img src="Project E-commerce/pythonWebScraping/images/image.png" width="900" height="600">
+<img src="Project E-commerce/pythonWebScraping/images/image.png" width="1000" height="500">
 
 - web scraping olarak python kullanıldı. database olarak mongoDb, frontend kısmında da flutter kullanıldı

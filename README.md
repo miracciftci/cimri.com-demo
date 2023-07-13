@@ -9,6 +9,6 @@ The found computers are saved in the database and placed on the front end.
 
 -used python for web scraping. MongoDB as database, Flutter is also used in the frontend part.
 
-# how to operate ?
-At first, it is necessary to run the pythonWebScraping file with python. After this process you need to run comparesite file in android studio
+# How to operate ?
+At first, it is necessary to run the pythonWebScraping file with python. After this process you need to run comparesite file in android studio.
 

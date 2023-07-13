@@ -8,3 +8,7 @@ The found computers are saved in the database and placed on the front end.
 <img src="Project E-commerce/pythonWebScraping/images/image.png" width="1000" height="500">
 
 -used python for web scraping. MongoDB as database, Flutter is also used in the frontend part.
+
+# how to operate ?
+At first, it is necessary to run the pythonWebScraping file with python. After this process you need to run comparesite file in android studio
+
